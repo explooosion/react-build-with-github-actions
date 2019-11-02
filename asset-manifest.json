@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-build-with-github-actions/static/css/main.2cce8147.chunk.css",
+    "main.js": "/react-build-with-github-actions/static/js/main.20969730.chunk.js",
+    "main.js.map": "/react-build-with-github-actions/static/js/main.20969730.chunk.js.map",
+    "runtime~main.js": "/react-build-with-github-actions/static/js/runtime~main.2e0afd47.js",
+    "runtime~main.js.map": "/react-build-with-github-actions/static/js/runtime~main.2e0afd47.js.map",
+    "static/js/2.0d7b7835.chunk.js": "/react-build-with-github-actions/static/js/2.0d7b7835.chunk.js",
+    "static/js/2.0d7b7835.chunk.js.map": "/react-build-with-github-actions/static/js/2.0d7b7835.chunk.js.map",
+    "index.html": "/react-build-with-github-actions/index.html",
+    "precache-manifest.8f93ebd021584928ee85220ffacf982c.js": "/react-build-with-github-actions/precache-manifest.8f93ebd021584928ee85220ffacf982c.js",
+    "service-worker.js": "/react-build-with-github-actions/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/react-build-with-github-actions/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/react-build-with-github-actions/static/media/logo.5d5d9eef.svg"
+  }
+}
